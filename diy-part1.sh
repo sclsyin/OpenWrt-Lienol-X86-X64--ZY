@@ -18,3 +18,5 @@
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 git clone https://github.com/kuoruan/openwrt-upx.git package/openwrt-upx
+git clone https://github.com/op4packages/pdnsd-alt /package/pdnsd-alt
+
